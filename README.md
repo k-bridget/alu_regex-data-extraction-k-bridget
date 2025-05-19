@@ -24,11 +24,13 @@ Currency amounts
 
 **How to run the program**
 
-Clone the repository: git clone https://github.com/k-bridget/alu_regex-data-extraction-k-bridget.git
+**Clone the repository:** git clone https://github.com/k-bridget/alu_regex-data-extraction-k-bridget.git
 
-Move into the folder cd alu_regex-data-extraction-k-bridget
+**Move into the folder**: cd alu_regex-data-extraction-k-bridget
 
-Run the python file
+**make the python file executable:** chmod +x main.py
+
+**Run the python file:** ./main.py
 
 Made by: Karungi Bridget
 
